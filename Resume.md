@@ -1,5 +1,5 @@
  <center>
-     <h1>杨捷</h1>
+     <h1>杨捷个人简历</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -19,10 +19,12 @@
  </center>
 
 
+
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
 ![杨捷个人照片](https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225134356.jpg)
 
+ - 姓名：杨捷
  - 性别：男
  - 生日：1998年8月
  - 求职意向：Android开发工程师
@@ -47,13 +49,13 @@
 
   2020.10～2020.12
   *websocket|fastapi|flutter|python*
-  利用webocket实现python server到flutter web的前端数据推送，实现学生打卡信息统计的小功能。
+  介绍：利用webocket实现python server到flutter web的前端数据推送，实现学生打卡信息统计的小功能。
   
 -  **基于安卓AccessibilityService的淘宝浏览记录捕获APP**
   
   2020.8～2020.12
   *websocket|fastapi|Android|python*
-  用户可以通过邮箱注册登录。成功登录之后，在用户访问淘宝商品时，于后台捕获商品信息，并将信息实时发送到服务器，服务器得到数据后保存到云mysql，并于每天早上指定时间推送杀熟情况给相应用户。项目经历
+  介绍：用户可以通过邮箱注册登录。成功登录之后，在用户访问淘宝商品时，于后台捕获商品信息，并将信息实时发送到服务器，服务器得到数据后保存到云mysql，并于每天早上指定时间推送杀熟情况给相应用户。
   
 - **基于openpose的AI智能私教**
   
@@ -65,12 +67,14 @@
 
    2020.6～2020.9
    *qt|c++|蚁群算法|遗传算法*
-   混个遗传算法解决TSP问题。
+   介绍：在传统蚁群算法的基础上混合遗传算法，加入遗传因子，利用*qt*图形化算法求解结果，解决经典的$TSP$问题。
 ## <img src="assets/briefcase-solid.svg" width="30px"> 获奖经历
 
-2020年全国大学生物联网设计竞赛——“你的AI智能私教”国家级三等奖	2020.9
+时间：2020.9
+2020年全国大学生物联网设计竞赛——“你的AI智能私教”国家级三等奖
 
-第十一届全国大学生服务外包创新创业大赛A12赛题“基于算法的配送路线优化”国家级三等奖	2020.9
+时间：2020.9
+第十一届全国大学生服务外包创新创业大赛A12赛题“基于算法的配送路线优化”国家级三等奖
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
