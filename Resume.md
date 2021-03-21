@@ -31,17 +31,26 @@
 
 ## <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225205338.svg" width="30px"> 教育经历
 
-- 学士，武汉大学，计算机科学与技术专业，2017.9~2021.7
-- 绩点：3.3，年级前 50%
-- 通过了 CET-6 英语等级考试
+- 本科，武汉大学，计算机科学与技术专业，2017.9~2021.7
+- 通过了**CET-6**英语等级考试
 
 ## <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225205325.svg" width="30px"> 实习经历
 
 - **乾阜商务咨询武汉有限公司，数据分析工程师，2020.8~2020.11**
 
-   1）前期调研任务：调研现在市面上的一些金融量化接口例如同花顺以及东方财富数据量化接口的ptyhon实时行情接口。调研内容首先是能否取得我们所需要的数据，然后就是多久可以返回我们所需要的数据以及是否可以并发，还有就是这一接口的收费情况。调研结束后撰写调研文档，与大家讨论商定最终的采购方案。
-   2）中期在已有项目基础上添加新的接口。新增新浪实时行情数据接口。mockingbird->whale->konolok。正式加入公司的开发流程中去。
-   3）后期基于流的前端网关。kafka获取数据->websocket推送->flutter前端更新。
+   1）调研同花顺以及东方财富数据量化实时行情接口。利用python进行接口实时行情数据返回速率和接口并发度的测试。
+   2）根据调研结果在已有项目基础上添加东方财富数据量化实时行情接口。
+   
+- **万兴科技，Android开发工程师，2021.3～至今**
+
+   进行公司安卓项目的开发维护工作。
+
+   主要负责：
+
+   1）Mirrorgo项目迭代版本自定义悬浮窗功能的开发和维护；
+
+   2）Mirrorgo项目基于Scrcpy安卓反向控制的开发和维护。
+
 
 ## <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225205302.svg" width="30px"> 项目经历
 
@@ -70,10 +79,10 @@
 ## <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225205139.svg" width="30px"> 获奖经历
 
 - 时间：2020.9
-  2020年全国大学生物联网设计竞赛——“你的AI智能私教”国家级三等奖
+  2020年全国大学生物联网设计竞赛——“你的AI智能私教”**国家级三等奖**
 
 - 时间：2020.9
-  第十一届全国大学生服务外包创新创业大赛A12赛题“基于算法的配送路线优化”国家级三等奖
+  第十一届全国大学生服务外包创新创业大赛A12赛题“基于算法的配送路线优化”**国家级三等奖**
 
 ## <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225205254.svg" width="30px"> 技能清单
 
