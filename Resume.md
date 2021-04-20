@@ -51,8 +51,12 @@
 
    2）Mirrorgo项目基于Scrcpy安卓反向控制的开发和维护。
 
-
 ## <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225205302.svg" width="30px"> 项目经历
+
+-  **基于RBM和BP神经网络的礼物挑选APP**
+  2021.1～至今
+  **python|Andriod|RBM|BPNN|FastAPI**
+  介绍：通过回答几个跟礼物接收者相关的问题，利用BPNN帮助用户刻画礼物接收者的人物形象，再利用RBM结合送礼人的送礼习惯，为用户挑选称心如意的商品。
 
 -  **基于安卓AccessibilityService的淘宝浏览记录捕获APP**
   
@@ -71,11 +75,6 @@
    2020.6～2020.9
    *qt|c++|蚁群算法|遗传算法*
    介绍：在传统蚁群算法的基础上混合遗传算法，加入遗传因子，利用*qt*图形化算法求解结果，解决经典的$TSP$问题。
-   
-- **基于RBM和BP神经网络的礼物挑选系统**
-   2021.1～至今
-   *python|Andriod|RBM|BP神经网络*
-   介绍：通过回答几个跟礼物接收者相关的问题，帮助用户刻画礼物接收者的人物形象，再结合送礼人的送礼习惯，为用户挑选称心如意的商品。
 ## <img src="https://raw.githubusercontent.com/red-fox-yj/MarkDownPic/master/typora/20210225205139.svg" width="30px"> 获奖经历
 
 - 时间：2020.9
